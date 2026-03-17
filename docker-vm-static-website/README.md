@@ -15,6 +15,9 @@ to deploy a containerized Nginx web server hosting a static website.
 - Nginx Web Server
 - HTML, CSS
 - Cloudflare Tunnel
+- React (Portfolio Website)
+- Node.js
+
 
 ## Project Objectives
 - To understand virtual machine setup using a hosted hypervisor
@@ -29,17 +32,19 @@ to deploy a containerized Nginx web server hosting a static website.
 - VM networking configuration: `docs/vm-networking.md`
 - Cloudflare Tunnel setup: `docs/cloudflare-tunnel.md`
 - Docker installation: `docs/docker-installation.md`
+- React portfolio integration: `docs/react-portfolio.md`
+
 
 
 ## Development Phases
 - Phase 1: Planning and repository initialization ✔
 - Phase 2: Virtual machine setup ✔
 - Phase 3: Docker installation and testing ✔
-- Phase 4: Static website development
+- Phase 4: React portfolio integration ✔
 - Phase 5: Dockerization of the website
 - Phase 6: Networking and access configuration
 - Phase 7: Documentation and analysis
 - Phase 8: Final testing and submission
 
 ## Project Status
-Phase 3 completed. Docker has been successfully installed and tested inside the virtual machine.
+Phase 4 completed. A React portfolio website has been integrated and prepared for Docker-based deployment.
